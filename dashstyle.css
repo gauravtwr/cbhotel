@@ -1,0 +1,61 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+body
+{
+	font-family: sans-serif;
+}
+
+
+.nav-link:hover
+{
+	background-color: black!important;
+	color: white!important;
+}
+
+.nav-link
+{
+	
+	color: white!important;
+}
+
+.nav-pills .nav-link.active
+{
+	background-color: grey!important;
+}
+
+.navbar
+{
+	background-color: #2C3E50;
+}
+.page-title
+{
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	background-color: #566573;
+	color: #D0D3D4 ;
+}
+
+.navbar-right
+{
+
+	float: right;
+	margin-left: 1050px;
+	
+}
+
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+	color: #fff !important;
+	font-weight: 600;
+	float: right;
+}
